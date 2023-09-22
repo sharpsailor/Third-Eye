@@ -1,0 +1,9 @@
+numpy
+pyheif
+requests
+openai-clip
+matplotlib
+torch
+streamlit
+opencv-python
+pyaml
